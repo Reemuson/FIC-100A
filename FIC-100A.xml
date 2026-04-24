@@ -70,37 +70,11 @@
 	COPPER TO HOLE		0.254 mm
 	COPPER TO EDGE		0.250 mm
 	HOLE TO HOLE			0.254 mm</textvar>
-    <textvar name="GIT_HASH_PCB">62c012b</textvar>
-    <textvar name="GIT_HASH_SCH">62c012b</textvar>
+    <textvar name="GIT_HASH_PCB">d633446</textvar>
+    <textvar name="GIT_HASH_SCH">d633446</textvar>
     <textvar name="GIT_URL">https://github.com/Reemuson/FIC-100A</textvar>
     <textvar name="PROJECT_NAME">USB IR ADPT</textvar>
-    <textvar name="RELEASE_BODY_0.1.0">___________________________________
-
-Status
-
--   Checked pre-release.
-
--   Schematic capture completed from the working breadboard prototype.
-
--   Breadboard prototype tested with a Fluke 289 multimeter.
-
--   PCB layout completed and ready to fabricate for further hardware testing.
-
-___________________________________
-
-Added
-
--   Initial KiCad schematic for the FIC-100A USB IR adapter.
-
--   Initial 2-layer PCB layout.
-
--   Initial generated manufacturing and documentation workflow.
-
-___________________________________
-
-Notes
-
--   This release is intended for fabrication and test validation. The PCB has not yet been validated as an assembled production unit.</textvar>
+    <textvar name="RELEASE_BODY_0.1.0"/>
     <textvar name="RELEASE_BODY_1.0.0"/>
     <textvar name="RELEASE_BODY_1.0.1"/>
     <textvar name="RELEASE_BODY_1.0.2"/>
@@ -116,45 +90,45 @@ Notes
     <textvar name="RELEASE_TITLE_UNRELEASED">Version Unreleased not found.</textvar>
     <textvar name="REVISION">0.1.0</textvar>
     <textvar name="SHEET_NAME_1">COVER PAGE</textvar>
-    <textvar name="SHEET_NAME_10">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_11">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_12">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_13">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_14">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_15">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_16">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_17">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_18">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_19">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_2">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_20">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_21">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_22">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_23">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_24">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_25">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_26">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_27">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_28">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_29">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_3">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_30">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_31">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_32">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_33">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_34">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_35">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_36">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_37">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_38">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_39">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_4">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_40">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_5">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_6">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_7">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_8">Error: XML File not found</textvar>
-    <textvar name="SHEET_NAME_9">Error: XML File not found</textvar>
+    <textvar name="SHEET_NAME_10">................................</textvar>
+    <textvar name="SHEET_NAME_11">................................</textvar>
+    <textvar name="SHEET_NAME_12">................................</textvar>
+    <textvar name="SHEET_NAME_13">................................</textvar>
+    <textvar name="SHEET_NAME_14">................................</textvar>
+    <textvar name="SHEET_NAME_15">................................</textvar>
+    <textvar name="SHEET_NAME_16">................................</textvar>
+    <textvar name="SHEET_NAME_17">................................</textvar>
+    <textvar name="SHEET_NAME_18">................................</textvar>
+    <textvar name="SHEET_NAME_19">................................</textvar>
+    <textvar name="SHEET_NAME_2">CIRCUIT</textvar>
+    <textvar name="SHEET_NAME_20">................................</textvar>
+    <textvar name="SHEET_NAME_21">................................</textvar>
+    <textvar name="SHEET_NAME_22">................................</textvar>
+    <textvar name="SHEET_NAME_23">................................</textvar>
+    <textvar name="SHEET_NAME_24">................................</textvar>
+    <textvar name="SHEET_NAME_25">................................</textvar>
+    <textvar name="SHEET_NAME_26">................................</textvar>
+    <textvar name="SHEET_NAME_27">................................</textvar>
+    <textvar name="SHEET_NAME_28">................................</textvar>
+    <textvar name="SHEET_NAME_29">................................</textvar>
+    <textvar name="SHEET_NAME_3">REVISION HISTORY</textvar>
+    <textvar name="SHEET_NAME_30">................................</textvar>
+    <textvar name="SHEET_NAME_31">................................</textvar>
+    <textvar name="SHEET_NAME_32">................................</textvar>
+    <textvar name="SHEET_NAME_33">................................</textvar>
+    <textvar name="SHEET_NAME_34">................................</textvar>
+    <textvar name="SHEET_NAME_35">................................</textvar>
+    <textvar name="SHEET_NAME_36">................................</textvar>
+    <textvar name="SHEET_NAME_37">................................</textvar>
+    <textvar name="SHEET_NAME_38">................................</textvar>
+    <textvar name="SHEET_NAME_39">................................</textvar>
+    <textvar name="SHEET_NAME_4">................................</textvar>
+    <textvar name="SHEET_NAME_40">................................</textvar>
+    <textvar name="SHEET_NAME_5">................................</textvar>
+    <textvar name="SHEET_NAME_6">................................</textvar>
+    <textvar name="SHEET_NAME_7">................................</textvar>
+    <textvar name="SHEET_NAME_8">................................</textvar>
+    <textvar name="SHEET_NAME_9">................................</textvar>
     <textvar name="VARIANT">RELEASED</textvar>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
