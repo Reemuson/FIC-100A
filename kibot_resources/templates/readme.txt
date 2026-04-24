@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-  <img alt="Logo" width="33%" src="Logos/dummy_logo.svg">
+  <img alt="Logo" width="33%" src="Logos/logo-wordmark-colour.png">
 </p>
 
 <h1 align="center">${BOARD_NAME}</h1>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center" width="100%">
-    <img src="Images/dummy_image.png">
+    <img src="Images/board_image.png">
 </p>
 
 ***
