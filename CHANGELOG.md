@@ -4,6 +4,8 @@
 
 ## [0.1.0] - 2026-04-24
 
+## [0.1.0] - 2026-04-24
+
 ### Status
 
 -   Checked pre-release.
@@ -22,5 +24,7 @@
 -   This release is intended for fabrication and test validation. The PCB has not yet been validated as an assembled production unit.
 
 [Unreleased]: https://github.com/Reemuson/FIC-100A/compare/0.1.0...HEAD
+
+[0.1.0]: https://github.com/Reemuson/FIC-100A/compare/0.1.0...0.1.0
 
 [0.1.0]: https://github.com/Reemuson/FIC-100A/compare/2170641ce48829b7754714a138c928e670b6678f...0.1.0
