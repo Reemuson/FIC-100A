@@ -1,9 +1,35 @@
 import argparse
+import os
+import subprocess
 import xml.etree.ElementTree as ET
-import sys
+
+def ensure_xml_exists(file_path):
+    if os.path.exists(file_path):
+        return True
+
+    root, _ = os.path.splitext(file_path)
+    sch_path = root + ".kicad_sch"
+    if not os.path.exists(sch_path):
+        return False
+
+    try:
+        subprocess.run(
+            ["kicad-cli", "sch", "export", "python-bom", "-o", file_path, sch_path],
+            check=True,
+            stdout=subprocess.DEVNULL,
+            stderr=subprocess.DEVNULL,
+        )
+    except (FileNotFoundError, subprocess.CalledProcessError):
+        return False
+
+    return os.path.exists(file_path)
 
 def get_sheet_title(file_path, page_number, dots_number):
     try:
+        if not ensure_xml_exists(file_path):
+            print('.'*dots_number)
+            return
+
         tree = ET.parse(file_path)
         root = tree.getroot()
         
