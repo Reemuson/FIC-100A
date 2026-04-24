@@ -215,13 +215,14 @@ jobs:
 
           if [[ "${{ github.ref_type }}" == "tag" ]]; then
             echo "Triggered by a tag, committing changes in detached HEAD state"
+            sudo chown -R "$(id -u):$(id -g)" "$GITHUB_WORKSPACE"
             git add -A
             git commit -m "Update Outputs (release)"
 
             DETACHED_COMMIT=$(git rev-parse HEAD)
             echo "Checking out the main branch"
             git fetch origin main
-            git checkout main
+            git checkout -B main origin/main
 
             echo "Merging detached HEAD commit into main"
             git merge --no-ff $DETACHED_COMMIT -m "Merge outputs from tag-triggered workflow" -X theirs
@@ -233,6 +234,7 @@ jobs:
           fi
 
       - name: Discard changes to .kicad_pcb files and remove temp files
+        if: ${{ github.ref_type != 'tag' }}
         run: | 
           git checkout HEAD -- $(git ls-files "*.kicad_pcb")
           git clean -f "*.kicad_pcb"
@@ -241,6 +243,7 @@ jobs:
           git clean -f "*.kicad_prl"
 
       - name: Update Outputs
+        if: ${{ github.ref_type != 'tag' }}
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           branch: ${{ github.ref_name }}
