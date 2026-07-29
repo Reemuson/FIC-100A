@@ -52,7 +52,7 @@ assets:
   logo: assets/logos/logo-wordmark-colour.png
   product_image: ''
 template:
-  sheet_image: assets/logos/logo-wordmark-colour.png
+  sheet_image: assets/logos/logo-block-black.png
 sheet:
   legal_notice: 'THIS DESIGN AND/OR DRAWING IS THE PROPERTY OF ${COMPANY}
 

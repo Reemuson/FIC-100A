@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Ryan-Dynamics")(type "KiCad")(uri "${KIPRJMOD}/Library/Ryan-Dynamics.kicad_sym")(options "")(descr ""))
+)
