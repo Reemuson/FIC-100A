@@ -1,5 +1,5 @@
 ** Drc report for FIC-100A.kicad_pcb **
-** Created on 2026-04-24T11:57:06+0000 **
+** Created on 2026-07-29T10:24:50+0000 **
 
 ** Found 28 DRC violations **
 [clearance]: Clearance violation (board minimum clearance 0.2000 mm; actual 0.1917 mm)
@@ -66,9 +66,6 @@
 [lib_footprint_mismatch]: Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.
     ; warning
     @(145.5 mm, 85.5 mm): Footprint R7
-[lib_footprint_mismatch]: Footprint 'USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal' does not match copy in library 'Connector_USB'.
-    ; warning
-    @(148.5 mm, 80.0 mm): Footprint J1
 [lib_footprint_mismatch]: Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.
     ; warning
     @(151.5 mm, 85.5 mm): Footprint R6
@@ -87,6 +84,9 @@
 [lib_footprint_mismatch]: Footprint 'LED_D5.0mm_Clear' does not match copy in library 'LED_THT'.
     ; warning
     @(153.275 mm, 97.0 mm): Footprint Q1
+[lib_footprint_mismatch]: Footprint 'USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal' does not match copy in library 'Connector_USB'.
+    ; warning (excluded)
+    @(148.5 mm, 80.0 mm): Footprint J1
 
 ** Found 0 unconnected pads **
 

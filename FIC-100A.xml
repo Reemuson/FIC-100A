@@ -70,8 +70,8 @@
 	COPPER TO HOLE		0.254 mm
 	COPPER TO EDGE		0.250 mm
 	HOLE TO HOLE			0.254 mm</textvar>
-    <textvar name="GIT_HASH_PCB">9d2a3c6</textvar>
-    <textvar name="GIT_HASH_SCH">9d2a3c6</textvar>
+    <textvar name="GIT_HASH_PCB">91fde94</textvar>
+    <textvar name="GIT_HASH_SCH">d124fa5</textvar>
     <textvar name="GIT_URL">https://github.com/Reemuson/FIC-100A</textvar>
     <textvar name="PROJECT_NAME">USB IR ADPT</textvar>
     <textvar name="RELEASE_BODY_0.1.0">___________________________________
@@ -106,15 +106,15 @@ Notes
     <textvar name="RELEASE_BODY_1.0.2"/>
     <textvar name="RELEASE_BODY_1.1.0"/>
     <textvar name="RELEASE_BODY_UNRELEASED">Version Unreleased not found.</textvar>
-    <textvar name="RELEASE_DATE">24-Apr-2026</textvar>
-    <textvar name="RELEASE_DATE_NUM">2026-04-24</textvar>
+    <textvar name="RELEASE_DATE">29-Jul-2026</textvar>
+    <textvar name="RELEASE_DATE_NUM">2026-07-29</textvar>
     <textvar name="RELEASE_TITLE_0.1.0">Version 0.1.0 - 2026-04-24</textvar>
     <textvar name="RELEASE_TITLE_1.0.0"/>
     <textvar name="RELEASE_TITLE_1.0.1"/>
     <textvar name="RELEASE_TITLE_1.0.2"/>
     <textvar name="RELEASE_TITLE_1.1.0"/>
     <textvar name="RELEASE_TITLE_UNRELEASED">Version Unreleased not found.</textvar>
-    <textvar name="REVISION">0.1.0</textvar>
+    <textvar name="REVISION">0.1.0+ (Unreleased)</textvar>
     <textvar name="SHEET_NAME_1">COVER PAGE</textvar>
     <textvar name="SHEET_NAME_10">................................</textvar>
     <textvar name="SHEET_NAME_11">................................</textvar>
@@ -155,12 +155,12 @@ Notes
     <textvar name="SHEET_NAME_7">................................</textvar>
     <textvar name="SHEET_NAME_8">................................</textvar>
     <textvar name="SHEET_NAME_9">................................</textvar>
-    <textvar name="VARIANT">RELEASED</textvar>
+    <textvar name="VARIANT">CHECKED</textvar>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
         <company>RYAN DYNAMICS</company>
-        <rev>0.1.0</rev>
+        <rev>0.1.0+ (Unreleased)</rev>
         <date>Date2</date>
         <source>FIC-100A.kicad_sch</source>
         <comment number="1" value=""/>
@@ -178,7 +178,7 @@ Notes
       <title_block>
         <title>CIRCUIT</title>
         <company>RYAN DYNAMICS</company>
-        <rev>0.1.0</rev>
+        <rev>0.1.0+ (Unreleased)</rev>
         <date>Date2</date>
         <source>Project Architecture.kicad_sch</source>
         <comment number="1" value=""/>
@@ -196,7 +196,7 @@ Notes
       <title_block>
         <title>REVISION HISTORY</title>
         <company>RYAN DYNAMICS</company>
-        <rev>0.1.0</rev>
+        <rev>0.1.0+ (Unreleased)</rev>
         <date>Date2</date>
         <source>Revision History.kicad_sch</source>
         <comment number="1" value=""/>
