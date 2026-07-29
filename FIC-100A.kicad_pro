@@ -1105,7 +1105,7 @@
     "SHEET_NAME_8": "................................",
     "SHEET_NAME_9": "................................",
     "SHEET_WKS": "${KIPRJMOD}/Templates/Boardwright_Template_PCB_GIT_A4.kicad_wks",
-    "TEMPLATE_LOGO": "assets/logos/logo-wordmark-black.png",
+    "TEMPLATE_LOGO": "assets/logos/logo-block-black.png",
     "VARIANT": "RELEASED"
   }
 }

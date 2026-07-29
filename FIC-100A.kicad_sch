@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(date "2026-04-24")
-		(rev "${REVISION}")
+		(rev "${DRAWING_REVISION}")
 		(company "${COMPANY}")
 	)
 	(lib_symbols)
