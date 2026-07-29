@@ -4365,7 +4365,7 @@
 		(uuid "5b3029ef-f087-4c62-8aba-e983996ff48b")
 	)
 	(junction
-		(at 114.3 165.1)
+		(at 114.3 170.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5c99193b-a183-496b-b6a1-6d7b44716e3d")
@@ -4413,7 +4413,7 @@
 		(uuid "7db16a4d-f526-4e46-87c7-0f94cda08e6d")
 	)
 	(junction
-		(at 76.2 137.16)
+		(at 76.2 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "84ce62ec-4f24-492b-a9a7-15f6cfff6da8")
@@ -4437,7 +4437,7 @@
 		(uuid "9ae5bd24-a6d4-486a-b12a-d8cde060e1fd")
 	)
 	(junction
-		(at 76.2 167.64)
+		(at 76.2 172.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b1cfce8e-0bc5-441d-80b9-1b18d13d8343")
@@ -4449,7 +4449,7 @@
 		(uuid "b6bdf4f3-352a-4a1f-99f1-b0e08025e15c")
 	)
 	(junction
-		(at 63.5 162.56)
+		(at 63.5 167.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bb830233-790e-4ded-99b3-af52731259d8")
@@ -4558,7 +4558,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 167.64) (xy 76.2 173.99)
+			(xy 76.2 172.72) (xy 76.2 179.07)
 		)
 		(stroke
 			(width 0)
@@ -4678,7 +4678,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 139.7) (xy 114.3 137.16)
+			(xy 114.3 144.78) (xy 114.3 142.24)
 		)
 		(stroke
 			(width 0)
@@ -4708,7 +4708,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 124.46) (xy 76.2 137.16)
+			(xy 76.2 129.54) (xy 76.2 142.24)
 		)
 		(stroke
 			(width 0)
@@ -4849,7 +4849,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 167.64) (xy 81.28 167.64)
+			(xy 76.2 172.72) (xy 81.28 172.72)
 		)
 		(stroke
 			(width 0)
@@ -4859,7 +4859,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 156.21) (xy 63.5 162.56)
+			(xy 63.5 161.29) (xy 63.5 167.64)
 		)
 		(stroke
 			(width 0)
@@ -4879,7 +4879,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 162.56) (xy 63.5 162.56)
+			(xy 81.28 167.64) (xy 63.5 167.64)
 		)
 		(stroke
 			(width 0)
@@ -4929,7 +4929,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 114.3) (xy 76.2 116.84)
+			(xy 76.2 119.38) (xy 76.2 121.92)
 		)
 		(stroke
 			(width 0)
@@ -5000,7 +5000,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 139.7) (xy 114.3 139.7)
+			(xy 96.52 144.78) (xy 114.3 144.78)
 		)
 		(stroke
 			(width 0)
@@ -5030,7 +5030,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 142.24) (xy 81.28 142.24)
+			(xy 69.85 147.32) (xy 81.28 147.32)
 		)
 		(stroke
 			(width 0)
@@ -5240,7 +5240,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 137.16) (xy 81.28 137.16)
+			(xy 76.2 142.24) (xy 81.28 142.24)
 		)
 		(stroke
 			(width 0)
@@ -5300,7 +5300,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 181.61) (xy 76.2 184.15)
+			(xy 76.2 186.69) (xy 76.2 189.23)
 		)
 		(stroke
 			(width 0)
@@ -5310,7 +5310,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 165.1) (xy 114.3 165.1)
+			(xy 96.52 170.18) (xy 114.3 170.18)
 		)
 		(stroke
 			(width 0)
@@ -5320,7 +5320,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 182.88) (xy 63.5 184.15)
+			(xy 63.5 187.96) (xy 63.5 189.23)
 		)
 		(stroke
 			(width 0)
@@ -5370,7 +5370,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 114.3) (xy 114.3 116.84)
+			(xy 114.3 119.38) (xy 114.3 121.92)
 		)
 		(stroke
 			(width 0)
@@ -5450,7 +5450,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 165.1) (xy 127 165.1)
+			(xy 114.3 170.18) (xy 127 170.18)
 		)
 		(stroke
 			(width 0)
@@ -5460,7 +5460,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 124.46) (xy 114.3 129.54)
+			(xy 114.3 129.54) (xy 114.3 134.62)
 		)
 		(stroke
 			(width 0)
@@ -5520,7 +5520,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 162.56) (xy 114.3 165.1)
+			(xy 114.3 167.64) (xy 114.3 170.18)
 		)
 		(stroke
 			(width 0)
@@ -5550,7 +5550,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 146.05) (xy 63.5 148.59)
+			(xy 63.5 151.13) (xy 63.5 153.67)
 		)
 		(stroke
 			(width 0)
@@ -5580,7 +5580,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 137.16) (xy 76.2 167.64)
+			(xy 76.2 142.24) (xy 76.2 172.72)
 		)
 		(stroke
 			(width 0)
@@ -5590,7 +5590,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 152.4) (xy 114.3 154.94)
+			(xy 114.3 157.48) (xy 114.3 160.02)
 		)
 		(stroke
 			(width 0)
@@ -5630,7 +5630,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 162.56) (xy 63.5 172.72)
+			(xy 63.5 167.64) (xy 63.5 177.8)
 		)
 		(stroke
 			(width 0)
@@ -5689,7 +5689,7 @@
 		(uuid "0a9b4dd3-6da8-4713-a50b-e90321f7dedb")
 	)
 	(label "TX"
-		(at 69.85 142.24 0)
+		(at 69.85 147.32 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5799,7 +5799,7 @@
 		(uuid "af14c62d-b1d4-420a-bed2-9af84c895e66")
 	)
 	(label "RX"
-		(at 127 165.1 180)
+		(at 127 170.18 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6783,7 +6783,7 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM393")
-		(at 88.9 139.7 0)
+		(at 88.9 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6792,7 +6792,7 @@
 		(fields_autoplaced yes)
 		(uuid "129e8902-9655-4b84-a360-80b588dbe477")
 		(property "Reference" "U1"
-			(at 88.9 129.54 0)
+			(at 88.9 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6800,7 +6800,7 @@
 			)
 		)
 		(property "Value" "LM393"
-			(at 88.9 132.08 0)
+			(at 88.9 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6808,7 +6808,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 88.9 139.7 0)
+			(at 88.9 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6817,7 +6817,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm393.pdf"
-			(at 88.9 139.7 0)
+			(at 88.9 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6826,7 +6826,7 @@
 			)
 		)
 		(property "Description" "IC COMPARATOR 2 GEN PUR 8SOIC"
-			(at 88.9 139.7 0)
+			(at 88.9 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6835,7 +6835,7 @@
 			)
 		)
 		(property "Manufacturer" "Texas Instruments"
-			(at 88.9 139.7 0)
+			(at 88.9 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6844,7 +6844,7 @@
 			)
 		)
 		(property "MPN" "LM393ADT"
-			(at 88.9 139.7 0)
+			(at 88.9 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6853,7 +6853,7 @@
 			)
 		)
 		(property "Supplier" "DigiKey"
-			(at 88.9 139.7 0)
+			(at 88.9 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6862,7 +6862,7 @@
 			)
 		)
 		(property "SPN" "497-4267-1-ND"
-			(at 88.9 139.7 0)
+			(at 88.9 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6970,7 +6970,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 63.5 184.15 0)
+		(at 63.5 189.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6979,7 +6979,7 @@
 		(fields_autoplaced yes)
 		(uuid "1ad86f15-caf1-4f0e-8746-ebfc46db52ef")
 		(property "Reference" "#PWR03"
-			(at 63.5 190.5 0)
+			(at 63.5 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6988,7 +6988,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 63.5 189.23 0)
+			(at 63.5 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6996,7 +6996,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 63.5 184.15 0)
+			(at 63.5 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7005,7 +7005,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 184.15 0)
+			(at 63.5 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7014,7 +7014,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 63.5 184.15 0)
+			(at 63.5 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7296,7 +7296,7 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
-		(at 76.2 114.3 0)
+		(at 76.2 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7305,7 +7305,7 @@
 		(fields_autoplaced yes)
 		(uuid "21f64f5c-f736-4fb1-80b6-2079e1daf938")
 		(property "Reference" "#PWR04"
-			(at 76.2 118.11 0)
+			(at 76.2 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7314,7 +7314,7 @@
 			)
 		)
 		(property "Value" "VUSB"
-			(at 76.2 109.22 0)
+			(at 76.2 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7322,7 +7322,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 76.2 114.3 0)
+			(at 76.2 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7331,7 +7331,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 114.3 0)
+			(at 76.2 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7340,7 +7340,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VUSB\""
-			(at 76.2 114.3 0)
+			(at 76.2 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7684,7 +7684,7 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM393")
-		(at 88.9 165.1 0)
+		(at 88.9 170.18 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7693,7 +7693,7 @@
 		(fields_autoplaced yes)
 		(uuid "26a975ea-a7da-4d3c-bb9b-1e8d22120e1f")
 		(property "Reference" "U1"
-			(at 88.9 154.94 0)
+			(at 88.9 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7701,7 +7701,7 @@
 			)
 		)
 		(property "Value" "LM393"
-			(at 88.9 157.48 0)
+			(at 88.9 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7709,7 +7709,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 88.9 165.1 0)
+			(at 88.9 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7718,7 +7718,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm393.pdf"
-			(at 88.9 165.1 0)
+			(at 88.9 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7727,7 +7727,7 @@
 			)
 		)
 		(property "Description" "IC COMPARATOR 2 GEN PUR 8SOIC"
-			(at 88.9 165.1 0)
+			(at 88.9 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7736,7 +7736,7 @@
 			)
 		)
 		(property "Manufacturer" "Texas Instruments"
-			(at 88.9 165.1 0)
+			(at 88.9 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7745,7 +7745,7 @@
 			)
 		)
 		(property "MPN" "LM393ADT"
-			(at 88.9 165.1 0)
+			(at 88.9 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7754,7 +7754,7 @@
 			)
 		)
 		(property "Supplier" "DigiKey"
-			(at 88.9 165.1 0)
+			(at 88.9 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7763,7 +7763,7 @@
 			)
 		)
 		(property "SPN" "497-4267-1-ND"
-			(at 88.9 165.1 0)
+			(at 88.9 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8906,7 +8906,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 114.3 133.35 90)
+		(at 114.3 138.43 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8915,7 +8915,7 @@
 		(fields_autoplaced yes)
 		(uuid "5f68c13f-da6d-4485-8e37-4f26b41a9d6f")
 		(property "Reference" "D2"
-			(at 118.11 133.6674 90)
+			(at 118.11 138.7474 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8924,7 +8924,7 @@
 			)
 		)
 		(property "Value" "TSAL6100"
-			(at 118.11 136.2074 90)
+			(at 118.11 141.2874 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8933,7 +8933,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_D5.0mm_IRBlack"
-			(at 114.3 133.35 0)
+			(at 114.3 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8942,7 +8942,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/81009/tsal6100.pdf"
-			(at 114.3 133.35 0)
+			(at 114.3 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8951,7 +8951,7 @@
 			)
 		)
 		(property "Description" "EMITTER IR 940NM 100MA RADIAL"
-			(at 114.3 133.35 0)
+			(at 114.3 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8960,7 +8960,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 114.3 133.35 0)
+			(at 114.3 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8969,7 +8969,7 @@
 			)
 		)
 		(property "MPN" "TSAL6100"
-			(at 114.3 133.35 90)
+			(at 114.3 138.43 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8978,7 +8978,7 @@
 			)
 		)
 		(property "Manufacturer" "Vishay Semiconductor Opto Division"
-			(at 114.3 133.35 90)
+			(at 114.3 138.43 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8987,7 +8987,7 @@
 			)
 		)
 		(property "SPN" "751-1203-ND"
-			(at 114.3 133.35 90)
+			(at 114.3 138.43 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8996,7 +8996,7 @@
 			)
 		)
 		(property "Supplier" "DigiKey"
-			(at 114.3 133.35 90)
+			(at 114.3 138.43 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9087,7 +9087,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 63.5 152.4 0)
+		(at 63.5 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9096,7 +9096,7 @@
 		(fields_autoplaced yes)
 		(uuid "6872aef9-487b-4164-89af-6ec4685a1d76")
 		(property "Reference" "R1"
-			(at 65.5028 151.1299 0)
+			(at 65.5028 156.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9105,7 +9105,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-			(at 65.5028 153.6699 0)
+			(at 65.5028 158.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9114,7 +9114,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 61.722 152.4 90)
+			(at 61.722 157.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9123,7 +9123,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.analogtechnologies.com/document/New_Resistor_Kits.pdf"
-			(at 63.5 152.4 0)
+			(at 63.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9132,7 +9132,7 @@
 			)
 		)
 		(property "Description" "RES 4.7K OHM 1% 1/10W 0603"
-			(at 63.5 152.4 0)
+			(at 63.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9141,7 +9141,7 @@
 			)
 		)
 		(property "Manufacturer" "Analog Technologies"
-			(at 63.5 152.4 90)
+			(at 63.5 157.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9150,7 +9150,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 59.69 152.4 90)
+			(at 59.69 157.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9159,7 +9159,7 @@
 			)
 		)
 		(property "Power" "1/10W"
-			(at 63.5 152.4 90)
+			(at 63.5 157.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9682,7 +9682,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 76.2 184.15 0)
+		(at 76.2 189.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9691,7 +9691,7 @@
 		(fields_autoplaced yes)
 		(uuid "7c9cc9e8-6128-494f-aca8-99954f9dfc70")
 		(property "Reference" "#PWR05"
-			(at 76.2 190.5 0)
+			(at 76.2 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9700,7 +9700,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 76.2 189.23 0)
+			(at 76.2 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9708,7 +9708,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 76.2 184.15 0)
+			(at 76.2 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9717,7 +9717,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 184.15 0)
+			(at 76.2 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9726,7 +9726,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 76.2 184.15 0)
+			(at 76.2 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10459,7 +10459,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 76.2 120.65 0)
+		(at 76.2 125.73 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10468,7 +10468,7 @@
 		(fields_autoplaced yes)
 		(uuid "9f6c288a-8601-49e9-9aaf-5cce6473b0df")
 		(property "Reference" "R2"
-			(at 78.2028 119.3799 0)
+			(at 78.2028 124.4599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10477,7 +10477,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-			(at 78.2028 121.9199 0)
+			(at 78.2028 126.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10486,7 +10486,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 74.422 120.65 90)
+			(at 74.422 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10495,7 +10495,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.analogtechnologies.com/document/New_Resistor_Kits.pdf"
-			(at 76.2 120.65 0)
+			(at 76.2 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10504,7 +10504,7 @@
 			)
 		)
 		(property "Description" "RES 4.7K OHM 1% 1/10W 0603"
-			(at 76.2 120.65 0)
+			(at 76.2 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10513,7 +10513,7 @@
 			)
 		)
 		(property "Manufacturer" "Analog Technologies"
-			(at 76.2 120.65 90)
+			(at 76.2 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10522,7 +10522,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 72.39 120.65 90)
+			(at 72.39 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10531,7 +10531,7 @@
 			)
 		)
 		(property "Power" "1/10W"
-			(at 76.2 120.65 90)
+			(at 76.2 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10556,7 +10556,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 76.2 177.8 0)
+		(at 76.2 182.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10565,7 +10565,7 @@
 		(fields_autoplaced yes)
 		(uuid "9f875e56-2bb9-4bb5-8fb4-be1f2fd6fb9c")
 		(property "Reference" "R3"
-			(at 78.2028 176.5299 0)
+			(at 78.2028 181.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10574,7 +10574,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 78.2028 179.0699 0)
+			(at 78.2028 184.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10583,7 +10583,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 74.422 177.8 90)
+			(at 74.422 182.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10592,7 +10592,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.analogtechnologies.com/document/New_Resistor_Kits.pdf"
-			(at 76.2 177.8 0)
+			(at 76.2 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10601,7 +10601,7 @@
 			)
 		)
 		(property "Description" "RES 10K OHM 1% 1/10W 0603"
-			(at 76.2 177.8 0)
+			(at 76.2 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10610,7 +10610,7 @@
 			)
 		)
 		(property "Manufacturer" "Analog Technologies"
-			(at 76.2 177.8 90)
+			(at 76.2 182.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10619,7 +10619,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 72.39 177.8 90)
+			(at 72.39 182.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10628,7 +10628,7 @@
 			)
 		)
 		(property "Power" "1/10W"
-			(at 76.2 177.8 90)
+			(at 76.2 182.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10783,7 +10783,7 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
-		(at 114.3 152.4 0)
+		(at 114.3 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10792,7 +10792,7 @@
 		(fields_autoplaced yes)
 		(uuid "a2d75637-ccd2-4737-9d84-18002b8f175a")
 		(property "Reference" "#PWR010"
-			(at 114.3 156.21 0)
+			(at 114.3 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10801,7 +10801,7 @@
 			)
 		)
 		(property "Value" "VUSB"
-			(at 114.3 147.32 0)
+			(at 114.3 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10809,7 +10809,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 114.3 152.4 0)
+			(at 114.3 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10818,7 +10818,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 152.4 0)
+			(at 114.3 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10827,7 +10827,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VUSB\""
-			(at 114.3 152.4 0)
+			(at 114.3 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11170,7 +11170,7 @@
 	)
 	(symbol
 		(lib_id "Sensor_Optical:BPW40")
-		(at 60.96 177.8 0)
+		(at 60.96 182.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11179,7 +11179,7 @@
 		(fields_autoplaced yes)
 		(uuid "add56c4f-e6c8-4843-98d0-293533adbb6f")
 		(property "Reference" "Q1"
-			(at 55.88 175.7806 0)
+			(at 55.88 180.8606 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11188,7 +11188,7 @@
 			)
 		)
 		(property "Value" "PT334-6C"
-			(at 55.88 178.3206 0)
+			(at 55.88 183.4006 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11197,7 +11197,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
-			(at 73.152 181.356 0)
+			(at 73.152 186.436 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11206,7 +11206,7 @@
 			)
 		)
 		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/4819/PT334-6C_Rev4_12-23-16.pdf"
-			(at 60.96 177.8 0)
+			(at 60.96 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11215,7 +11215,7 @@
 			)
 		)
 		(property "Description" "SENSOR PHOTO 940NM TOP VIEW RAD"
-			(at 60.96 177.8 0)
+			(at 60.96 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11224,7 +11224,7 @@
 			)
 		)
 		(property "MPN" "PT334-6C"
-			(at 60.96 177.8 0)
+			(at 60.96 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11233,7 +11233,7 @@
 			)
 		)
 		(property "Manufacturer" "Everlight Electronics Co Ltd"
-			(at 60.96 177.8 0)
+			(at 60.96 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11242,7 +11242,7 @@
 			)
 		)
 		(property "SPN" "1080-1159-ND"
-			(at 60.96 177.8 0)
+			(at 60.96 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11251,7 +11251,7 @@
 			)
 		)
 		(property "Supplier" "DigiKey"
-			(at 60.96 177.8 0)
+			(at 60.96 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11276,7 +11276,7 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
-		(at 63.5 146.05 0)
+		(at 63.5 151.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11285,7 +11285,7 @@
 		(fields_autoplaced yes)
 		(uuid "b07cca1a-7563-4606-934d-e9aac92ae283")
 		(property "Reference" "#PWR02"
-			(at 63.5 149.86 0)
+			(at 63.5 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11294,7 +11294,7 @@
 			)
 		)
 		(property "Value" "VUSB"
-			(at 63.5 140.97 0)
+			(at 63.5 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11302,7 +11302,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 63.5 146.05 0)
+			(at 63.5 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11311,7 +11311,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 146.05 0)
+			(at 63.5 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11320,7 +11320,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VUSB\""
-			(at 63.5 146.05 0)
+			(at 63.5 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11342,7 +11342,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 114.3 158.75 0)
+		(at 114.3 163.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11351,7 +11351,7 @@
 		(fields_autoplaced yes)
 		(uuid "b265dfeb-c102-44b4-9ff1-1bb36f986ced")
 		(property "Reference" "R5"
-			(at 116.3028 157.4799 0)
+			(at 116.3028 162.5599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11360,7 +11360,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-			(at 116.3028 160.0199 0)
+			(at 116.3028 165.0999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11369,7 +11369,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 112.522 158.75 90)
+			(at 112.522 163.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11378,7 +11378,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.analogtechnologies.com/document/New_Resistor_Kits.pdf"
-			(at 114.3 158.75 0)
+			(at 114.3 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11387,7 +11387,7 @@
 			)
 		)
 		(property "Description" "RES 4.7K OHM 1% 1/10W 0603"
-			(at 114.3 158.75 0)
+			(at 114.3 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11396,7 +11396,7 @@
 			)
 		)
 		(property "Manufacturer" "Analog Technologies"
-			(at 114.3 158.75 90)
+			(at 114.3 163.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11405,7 +11405,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 110.49 158.75 90)
+			(at 110.49 163.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11414,7 +11414,7 @@
 			)
 		)
 		(property "Power" "1/10W"
-			(at 114.3 158.75 90)
+			(at 114.3 163.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12529,7 +12529,7 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
-		(at 114.3 114.3 0)
+		(at 114.3 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12538,7 +12538,7 @@
 		(fields_autoplaced yes)
 		(uuid "e60d39da-99b6-497d-8b6d-37f6ea865b1e")
 		(property "Reference" "#PWR09"
-			(at 114.3 118.11 0)
+			(at 114.3 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12547,7 +12547,7 @@
 			)
 		)
 		(property "Value" "VUSB"
-			(at 114.3 109.22 0)
+			(at 114.3 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12555,7 +12555,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 114.3 114.3 0)
+			(at 114.3 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12564,7 +12564,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 114.3 0)
+			(at 114.3 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12573,7 +12573,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VUSB\""
-			(at 114.3 114.3 0)
+			(at 114.3 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12852,7 +12852,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 114.3 120.65 0)
+		(at 114.3 125.73 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12861,7 +12861,7 @@
 		(fields_autoplaced yes)
 		(uuid "fd6aab3e-94ff-456b-8422-e960fb42ba24")
 		(property "Reference" "R4"
-			(at 116.3028 119.3799 0)
+			(at 116.3028 124.4599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12870,7 +12870,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 116.3028 121.9199 0)
+			(at 116.3028 126.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12879,7 +12879,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 112.522 120.65 90)
+			(at 112.522 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12888,7 +12888,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.analogtechnologies.com/document/New_Resistor_Kits.pdf"
-			(at 114.3 120.65 0)
+			(at 114.3 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12897,7 +12897,7 @@
 			)
 		)
 		(property "Description" "RES 220 OHM 1% 1/10W 0603"
-			(at 114.3 120.65 0)
+			(at 114.3 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12906,7 +12906,7 @@
 			)
 		)
 		(property "Manufacturer" "Analog Technologies"
-			(at 114.3 120.65 90)
+			(at 114.3 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12915,7 +12915,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 110.49 120.65 90)
+			(at 110.49 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12924,7 +12924,7 @@
 			)
 		)
 		(property "Power" "1/10W"
-			(at 114.3 120.65 90)
+			(at 114.3 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
