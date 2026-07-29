@@ -74,6 +74,10 @@
         [
           "hole_clearance|151550000|83255000|e5b9b5ad-e695-4481-9cd7-2b91e3b49809|97ca24b1-dae2-42d2-8bb4-f59d45353be5",
           "footprint"
+        ],
+        [
+          "lib_footprint_mismatch|148500000|80290000|d2c3eec2-b650-4f6e-bc35-584c43f16493|00000000-0000-0000-0000-000000000000",
+          ""
         ]
       ],
       "meta": {
@@ -739,19 +743,19 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "KDT_Hierarchical_KiBot.net",
+      "netlist": "FIC-100A.net",
       "plot": "Manufacturing/Fabrication/Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "STEP_Blender/KDT_Hierarchical_KiBot.step",
+      "step": "STEP_Blender/FIC-100A.step",
       "svg": "",
       "vrml": ""
     },
-    "page_layout_descr_file": "Templates/KDT_Template_PCB_GIT_A4.kicad_wks"
+    "page_layout_descr_file": "kicad-embed://Boardwright_Template_AS1100.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "Manufacturing/Assembly/KDT_Hierarchical_KiBot-bom-k8.csv",
+    "bom_export_filename": "Manufacturing/Assembly/FIC-100A-bom-k8.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -988,7 +992,7 @@
       "version": 1
     },
     "net_format_name": "KiCad",
-    "page_layout_descr_file": "Templates/KDT_Template_GIT.kicad_wks",
+    "page_layout_descr_file": "kicad-embed://Boardwright_Template_AS1100.kicad_wks",
     "plot_directory": "Schematic/",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
@@ -1008,35 +1012,43 @@
     [
       "c5103ceb-5325-4a84-a025-9638a412984e",
       "CIRCUIT"
-    ],
-    [
-      "6e125bd6-2f99-4e5d-b3ea-4899f4540739",
-      "REVISION HISTORY"
     ]
   ],
   "text_variables": {
-    "ASSEMBLY_NOTES": "ASSEMBLY NOTES",
-    "BOARD_NAME": "FIC-100A",
+    "ASSEMBLY_NOTES": "ASSEMBLY NOTES (UNLESS OTHERWISE SPECIFIED)\n\n1)\tDO NOT POPULATE PARTS ARE MARKED WITH A RED CROSS.\n\n2)\tDO NOT POPULATE PARTS ARE NOT PRESENT IN THE BOM.\n\n3)\tIF CONFLICTING INFORMATION IS FOUND BETWEEN THE ASSEMBLY\n\tFILE AND BOM, BOM SHOULD BE USED AS THE MAIN SOURCE.\n\n4)\tCONFORMAL COATING IS NOT REQUIRED.\n\n5)\tDOT IDENTIFIES PIN #1 LOCATION AND DEVICE ORIENTATION\n\tWHEN VIEWED FROM THE TOP.",
+    "BOARD_REVISION": "A",
     "COMPANY": "RYAN DYNAMICS",
     "DESIGNER": "R. HICKS",
-    "FABRICATION_NOTES": "FABRICATION NOTES",
-    "GIT_HASH_PCB": "",
-    "GIT_HASH_SCH": "",
-    "GIT_URL": "",
-    "PROJECT_NAME": "USB IR ADPT",
+    "DOCUMENT_TYPE": "SCHEMATIC",
+    "DRAWING_NUMBER": "FIC-100A",
+    "DRAWING_REVISION": "A",
+    "DRAWING_TITLE": "SCHEMATIC",
+    "DRAWN_BY": "",
+    "DRAWN_DATE": "",
+    "FABRICATION_NOTES": "FABRICATION NOTES (UNLESS OTHERWISE SPECIFIED)\n\n1)\tFABRICATE PER IPC-6012A CLASS 2.\n\n2)\tOUTLINE DEFINED IN SEPARATE GERBER FILE WITH\n\t\"Edge_Cuts.GBR\" SUFFIX.\n\n\tDIMENSIONS OF CIRCUMSIZED RECTANGLE SHOWN ON THIS\n\tDRAWING FOR REFERENCE ONLY.\n\n3)\tSEE SEPARATE DRILL FILES WITH \".DRL\" SUFFIX \n\tFOR HOLE LOCATIONS.\n\n\tSELECTED HOLE LOCATIONS SHOWN ON THIS DRAWING \n\tFOR REFERENCE ONLY.\n\n4)\tSURFACE FINISH: ENIG\n\n5)\tSOLDERMASK ON BOTH SIDES OF THE BOARD SHALL \n\tBE LPI, COLOR GREEN.\n\n6)\tSILK SCREEN LEGEND TO BE APPLIED PER LAYER \n\tSTACKUP USING YELLOW NON-CONDUCTIVE EPOXY INK.\n\n7)\tALL VIAS ARE TENTED ON BOTH SIDES UNLESS \n\tSOLDERMASK OPENED IN GERBER.\n\n8)\tVENDOR SHOULD FOLLOW ROHS COMPLIANT PROCESS \n\tAND Pb FREE FOR MANUFACTURING\n\n9)\tPCB MATERIAL REQUIREMENTS:\n\n\tA.\tFLAMMABILITY RATING MUST MEET OR EXCEED \n\t\tUL94V-0 REQUIREMENTS.\n\tB.\tTg 170 C OR EQUIVALENT.\n\tC.\tEQUIVALENT MATERIAL SHALL BE RoHS COMPLIANT, \n\t\tHALOGEN FREE AND APPROVED BY RYAN DYNAMICS.\n\n10)\tDESIGN GEOMETRY MINIMUM FEATURE SIZES:\n\n\tBOARD SIZE\t\t\t\t40.000 × 25.000 mm\n\tBOARD THICKNESS\t\t1.600 mm\n\tTRACE WIDTH\t\t\t0.200 mm\n\tTRACE TO TRACE\t\t0.200 mm\n\tMIN. HOLE (PTH)\t\t\t0.300 mm\n\tMIN. HOLE (NPTH)\t\t0.650 mm\n\tANNULAR RING\t\t\t0.150 mm\n\tCOPPER TO HOLE\t\t0.254 mm\n\tCOPPER TO EDGE\t\t0.250 mm\n\tHOLE TO HOLE\t\t\t0.254 mm",
+    "GIT_HASH_PCB": "9d2a3c6",
+    "GIT_HASH_SCH": "9d2a3c6",
+    "GIT_URL": "https://github.com/Reemuson/FIC-100A",
+    "LOGO": "assets/logos/logo-wordmark-colour.png",
+    "PCBA_NAME": "FIC-100A",
+    "PCB_NAME": "FIC-100A",
+    "PROJECT_NUMBER": "USB IR ADPT",
+    "RELEASE_BODY_0.1.0": "___________________________________\n\nStatus\n\n-   Checked pre-release.\n\n-   Schematic capture completed from the working breadboard prototype.\n\n-   Breadboard prototype tested with a Fluke 289 multimeter.\n\n-   PCB layout completed and ready to fabricate for further hardware testing.\n\n___________________________________\n\nAdded\n\n-   Initial KiCad schematic for the FIC-100A USB IR adapter.\n\n-   Initial 2-layer PCB layout.\n\n-   Initial generated manufacturing and documentation workflow.\n\n___________________________________\n\nNotes\n\n-   This release is intended for fabrication and test validation. The PCB has not yet been validated as an assembled production unit.",
     "RELEASE_BODY_1.0.0": "",
     "RELEASE_BODY_1.0.1": "",
     "RELEASE_BODY_1.0.2": "",
     "RELEASE_BODY_1.1.0": "",
-    "RELEASE_BODY_UNRELEASED": "",
-    "RELEASE_DATE": "DD-MMM-YYYY",
-    "RELEASE_DATE_NUM": "YYYY-MM-DD",
+    "RELEASE_BODY_UNRELEASED": "Version Unreleased not found.",
+    "RELEASE_DATE": "",
+    "RELEASE_DATE_NUM": "2026-04-24",
+    "RELEASE_TITLE_0.1.0": "Version 0.1.0 - 2026-04-24",
     "RELEASE_TITLE_1.0.0": "",
     "RELEASE_TITLE_1.0.1": "",
     "RELEASE_TITLE_1.0.2": "",
     "RELEASE_TITLE_1.1.0": "",
-    "RELEASE_TITLE_UNRELEASED": "",
-    "REVISION": "",
+    "RELEASE_TITLE_UNRELEASED": "Version Unreleased not found.",
+    "RELEASE_VERSION": "",
+    "SHEET_LEGAL_NOTICE": "THIS DESIGN AND/OR DRAWING IS THE PROPERTY OF RYAN DYNAMICS\nAND SHALL NOT BE REPRODUCED WITHOUT AUTHORISATION.",
     "SHEET_NAME_1": "COVER PAGE",
     "SHEET_NAME_10": "................................",
     "SHEET_NAME_11": "................................",
@@ -1077,6 +1089,8 @@
     "SHEET_NAME_7": "................................",
     "SHEET_NAME_8": "................................",
     "SHEET_NAME_9": "................................",
-    "VARIANT": ""
+    "SHEET_WKS": "${KIPRJMOD}/Templates/Boardwright_Template_PCB_GIT_A4.kicad_wks",
+    "TEMPLATE_LOGO": "assets/logos/logo-wordmark-colour.png",
+    "VARIANT": "RELEASED"
   }
 }

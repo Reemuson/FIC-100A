@@ -1,0 +1,11 @@
+document_revisions:
+  schematic:
+    rows:
+    - revision: A
+      date: '2026-04-24'
+      description: CHECKED PRE-RELEASE FOR FIRST BOARD SPIN
+      drawn_by: R.HICKS
+  assembly:
+    rows: []
+  fabrication:
+    rows: []

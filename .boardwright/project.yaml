@@ -1,0 +1,75 @@
+project:
+  name: USB IR ADPT
+  pcba_name: FIC-100A
+  pcb_name: FIC-100A
+  board_revision: A
+  company: RYAN DYNAMICS
+  designer: R. HICKS
+  git_url: https://github.com/Reemuson/FIC-100A
+  product_family: BOARDWRIGHT
+  product_generation: TEMPLATE
+release:
+  version: ''
+  date: ''
+documents:
+  schematic:
+    title: Schematic
+    type: SCHEMATIC
+    number_source: pcba_name
+    revision: A
+    revision_scheme: lettered
+    drawn_by: R. HICKS
+    drawn_date: '2026-04-24'
+    include_full_revision_history: true
+  assembly:
+    title: Assembly Drawing
+    type: ASSEMBLY
+    number_source: pcba_name
+    revision: A
+    revision_scheme: lettered
+  fabrication:
+    title: PCB Fabrication Drawing
+    type: FABRICATION
+    number_source: pcb_name
+    revision: A
+    revision_scheme: lettered
+variants:
+  dev_default: DRAFT
+  preview_default: PRELIMINARY
+  main_default: CHECKED
+  release_default: RELEASED
+outputs:
+  commit_generated_outputs_to_main: false
+  use_preview_branch: true
+  preview_engine: github-actions
+  preview_workflow: dev-preview.yaml
+  main_workflow: main-outputs.yaml
+  prepare_release_workflow: prepare-release.yaml
+  release_workflow: release.yaml
+  release_include_source_archive: false
+  combined_review_pdf: true
+assets:
+  logo: assets/logos/logo-wordmark-colour.png
+  product_image: ''
+template:
+  sheet_image: assets/logos/logo-wordmark-colour.png
+sheet:
+  legal_notice: 'THIS DESIGN AND/OR DRAWING IS THE PROPERTY OF ${COMPANY}
+
+    AND SHALL NOT BE REPRODUCED WITHOUT AUTHORISATION.'
+manufacturing:
+  rohs_pb_free: true
+  conformal_coating: false
+  silkscreen_enabled: true
+  tented_vias: false
+  impedance_enabled: false
+  manufacturing_standard: IPC-6012 Class 2
+  core_material: FR-4
+  flammability_rating: UL94V-0
+  tg_rating: 170 C
+  halogen_free: true
+  fabrication_notes: ''
+  assembly_notes: ''
+  testpoint_policy: ''
+  impedance_notes: ''
+  impedance_table: []

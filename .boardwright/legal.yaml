@@ -1,0 +1,73 @@
+boardwright:
+  tooling_license: LicenseRef-Boardwright-Source-Available
+  inherited_notice_file: LICENSES/Nguyen-MIT.txt
+  third_party_notice_file: THIRD_PARTY_NOTICES.md
+  default_profile: public-hardware
+legal_profiles:
+  public-hardware:
+    hardware_design_license: CERN-OHL-W-2.0
+    copyright_holder: ''
+    notice_file: NOTICE.md
+    third_party_notice_file: THIRD_PARTY_NOTICES.md
+    allow_project_owner_override: true
+    branding_reserved: true
+    compatibility: &id001
+      enabled: false
+      wording: ''
+      trademark_owner: ''
+    safety_notice: 'This is a hardware/electronics project. Anyone building, modifying,
+      testing, selling, or using the design is responsible for verifying isolation,
+      creepage and clearance, electrical safety, regulatory compliance, manufacturability,
+      and fitness for purpose.
+
+      '
+  compatibility-friendly:
+    hardware_design_license: CERN-OHL-S-2.0
+    copyright_holder: ''
+    notice_file: NOTICE.md
+    third_party_notice_file: THIRD_PARTY_NOTICES.md
+    allow_project_owner_override: true
+    branding_reserved: true
+    compatibility:
+      enabled: true
+      wording: compatible with selected instruments
+      trademark_owner: the original manufacturer
+    safety_notice: 'This is a hardware/electronics project. Anyone building, modifying,
+      testing, selling, or using the design is responsible for verifying isolation,
+      creepage and clearance, electrical safety, regulatory compliance, manufacturability,
+      and fitness for purpose.
+
+      '
+  internal-prototype:
+    hardware_design_license: See LICENSE
+    copyright_holder: ''
+    notice_file: NOTICE.md
+    third_party_notice_file: THIRD_PARTY_NOTICES.md
+    allow_project_owner_override: false
+    branding_reserved: false
+    compatibility:
+      enabled: false
+      wording: ''
+      trademark_owner: ''
+    safety_notice: 'This is a hardware/electronics project. Anyone building, modifying,
+      testing, selling, or using the design is responsible for verifying isolation,
+      creepage and clearance, electrical safety, regulatory compliance, manufacturability,
+      and fitness for purpose.
+
+      '
+downstream_project_defaults:
+  profile: public-hardware
+  hardware_design_license: CERN-OHL-W-2.0
+  copyright_holder: RYAN DYNAMICS
+  notice_file: NOTICE.md
+  third_party_notice_file: THIRD_PARTY_NOTICES.md
+  allow_project_owner_override: true
+  branding_reserved: true
+  compatibility: *id001
+  safety_notice: This is a hardware/electronics project. Anyone building, modifying,
+    testing, selling, or using the design is responsible for verifying isolation,
+    creepage and clearance, electrical safety, regulatory compliance, manufacturability,
+    and fitness for purpose.
+generated_outputs:
+  output_exception_enabled: true
+  copied_template_material_notice_required: true
